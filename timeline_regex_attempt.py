@@ -1,0 +1,281 @@
+from log_into_wiki import *
+import mwparserfromhell, re
+
+site = login('bot', 'cod-esports')  # Set wiki
+summary = 'Attempting to parse old content as templates'  # Set summary
+
+page_type = 'teams'  # tournament, players, teams
+
+limit = 1
+startat_page = None
+print(startat_page)
+startat_page = 'Raised By Kings'
+template_by_type = {
+    'players': 'Player',
+    'teams': 'Team',
+    'tournament': 'Tournament'
+}
+this_template = site.pages['Template:Infobox ' + template_by_type[page_type]]  # Set template
+pages = this_template.embeddedin()
+
+months = r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
+date = r" *(\d+)(?:st|th|rd|nd)?[.,]? ?(?:\d\d\d\d,? ?)?(?: *\- *)?"
+nodate = r" \(approx(.+?),"
+sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)"
+reference = r"\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''"
+alt1 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|(.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
+alt2 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
+
+identify_players = r"({{bl\||\[\[)(.+?)(\||}}|]])"
+strip_role = r"^\s(?:(?:as|) (?:a|an|the|)(.+?)|(.+?))\."
+
+regex = r"^\* ?" + months + date + sentence + '<ref>' + reference + '</ref>' + alt1 + alt2
+noref = r"^\* ?" + months + date + sentence
+approxdate = r"^\* ?" + months + nodate + sentence
+
+passed_startat = False if startat_page else True
+lmt = 0
+
+pages = [site.pages['Raised By Kings']]
+
+
+def process_line(line):
+    match = re.match(regex, line)
+    # print(match[4])
+
+    if match:
+        string1 = match[3]
+        step1 = re.finditer(identify_players, str(string1))  # find player names inside brackets
+        step2 = ''
+        if match[7] != '':
+            string2 = match[7]
+            step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
+
+        string1role = ''
+        if match[5] != '.':
+            role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
+            string1role = role1regex[1] or role1regex[2]
+
+        string2role = ''
+        if match[9] != '.' and '':
+            role2regex = re.match(strip_role, match[9])
+            string2role = role2regex[1] or role2regex[2]
+
+        sourcelist = ''
+        s = mwparserfromhell.nodes.template.Template('Source')
+        s.add('link', match[10])
+        s.add('title', match[11])
+        s.add('desc', match[12])
+        sourcelist += str(s)
+        if match[14] is not None and match[14].strip() != '':
+            s2 = mwparserfromhell.nodes.template.Template('Source')
+            s2.add('link', match[14])
+            s2.add('title', match[15])
+            s2.add('desc', match[16])
+            sourcelist += str(s2)
+        if match[28] is not None and match[28].strip() != '':
+            s3 = mwparserfromhell.nodes.template.Template('Source')
+            s3.add('link', match[28])
+            s3.add('title', match[29])
+            s3.add('desc', match[30])
+            sourcelist += str(s3)
+        print(sourcelist)
+
+        listofrcplayer = ''
+        for player in step1:  # loop through step1 list making new template for each new player
+            r = mwparserfromhell.nodes.template.Template('RCPlayer')
+            r.add('player', player.group(2))
+            r.add('role', string1role)
+            if match[4] == 'retires':
+                r.add('status', 'retired')
+            listofrcplayer += str(r)
+        print(listofrcplayer)
+
+        listofrcplayer2 = ''
+        for player2 in step2:
+            p = mwparserfromhell.nodes.template.Template('RCPlayer')
+            p.add('player', player2.group(2))
+            p.add('role', string2role)
+            # p.add('status', '')
+            listofrcplayer2 += str(p)
+        print(listofrcplayer2)
+
+        t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
+        t.add('team', page.name)
+        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
+        t.add('source', sourcelist)
+        if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+            t.add('post', listofrcplayer)
+        elif match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+
+        if match[8] in ['join', 'joins'] and match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+            t.add('post', listofrcplayer2)
+        elif match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+        elif match[4] in ['join', 'joins']:
+            t.add('post', listofrcplayer)
+        t.add('date', match[1] + ' ' + match[2])
+        lines[j] = str(t)
+        return t
+
+    match = re.match(noref, line)
+    if match:
+        string1 = match[3]
+        step1 = re.finditer(identify_players, str(string1))  # find player names inside brackets
+
+        step2 = ''
+        if match[7] != '':
+            string2 = match[7]
+            step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
+
+        string1role = ''
+        if match[5] != '.':
+            role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
+            string1role = role1regex[1] or role1regex[2]
+
+        string2role = ''
+        if match[9] != '.' and '':
+            role2regex = re.match(strip_role, match[9])
+            string2role = role2regex[1] or role2regex[2]
+
+        listofrcplayer = ''
+        for player in step1:  # loop through step1 list making new template for each new player
+            r = mwparserfromhell.nodes.template.Template('RCPlayer')
+            r.add('player', player.group(2))
+            r.add('role', string1role)
+            if match[4] == 'retires':
+                r.add('status', 'retired')
+            listofrcplayer += str(r)
+        print(listofrcplayer)
+
+        listofrcplayer2 = ''
+        for player2 in step2:
+            p = mwparserfromhell.nodes.template.Template('RCPlayer')
+            p.add('player', player2.group(2))
+            p.add('role', string2role)
+            # p.add('status', '')
+            listofrcplayer2 += str(p)
+        print(listofrcplayer2)
+
+        t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
+        t.add('team', page.name)
+        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
+        if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+            t.add('post', listofrcplayer)
+        elif match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+
+        if match[8] in ['join', 'joins'] and match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+            t.add('post', listofrcplayer2)
+        elif match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+        elif match[4] in ['join', 'joins']:
+            t.add('post', listofrcplayer)
+        t.add('date', match[1] + ' ' + match[2])
+        lines[j] = str(t)
+        return t
+
+    match = re.match(approxdate, line)
+    if match:
+        string1 = match[3]
+        step1 = re.finditer(identify_players, str(string1))  # find player names inside brackets
+
+        step2 = ''
+        if match[7] != '':
+            string2 = match[7]
+            step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
+
+        string1role = ''
+        if match[5] != '.':
+            role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
+            string1role = role1regex[1] or role1regex[2]
+
+        string2role = ''
+        if match[9] != '.' and '':
+            role2regex = re.match(strip_role, match[9])
+            string2role = role2regex[1] or role2regex[2]
+
+        listofrcplayer = ''
+        for player in step1:  # loop through step1 list making new template for each new player
+            r = mwparserfromhell.nodes.template.Template('RCPlayer')
+            r.add('player', player.group(2))
+            r.add('role', string1role)
+            if match[4] == 'retires':
+                r.add('status', 'retired')
+            listofrcplayer += str(r)
+        print(listofrcplayer)
+
+        listofrcplayer2 = ''
+        for player2 in step2:
+            p = mwparserfromhell.nodes.template.Template('RCPlayer')
+            p.add('player', player2.group(2))
+            p.add('role', string2role)
+            # p.add('status', '')
+            listofrcplayer2 += str(p)
+        print(listofrcplayer2)
+
+        t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
+        t.add('team', page.name)
+        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
+        t.add('display_date', '')
+        t.add('approx', 'yes')
+        if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+            t.add('post', listofrcplayer)
+        elif match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+
+        if match[8] in ['join', 'joins'] and match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+            t.add('post', listofrcplayer2)
+        elif match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+        elif match[4] in ['join', 'joins']:
+            t.add('post', listofrcplayer)
+        t.add('date', match[1] + ' 01')
+        lines[j] = str(t)
+        return t
+    return None
+
+
+for page in pages:
+    if lmt == limit:
+        break
+    if startat_page and page.name == startat_page:
+        passed_startat = True
+    if not passed_startat:  # or ('2019' not in page.name and '2018' not in page.name):
+        print("Skipping page %s" % page.name)
+        continue
+    lmt += 1
+    this_page = page
+    print('beginning page %s' % page.name)
+    text = this_page.text()
+    wikitext = mwparserfromhell.parse(text, skip_style_tags=True)
+    is_right_type = False
+    for template in wikitext.filter_templates(recursive=False):
+        if template.name.matches('Infobox ' + template_by_type[page_type]):
+            is_right_type = True
+        if tl_matches(template, ['TD', 'TDRight', 'TabsDynamic', 'TDR']) and is_right_type:
+            i = 1
+            while template.has('content' + str(i)):
+                content = template.get('content' + str(i)).value.strip()
+                lines = content.split('\n')
+                for j, line in enumerate(lines):
+                    tl = process_line(line)
+                    if tl:
+                        lines[j] = str(tl)
+                template.add('content' + str(i), '\n'.join(lines))
+                i += 1
+
+    newtext = str(wikitext)
+    if text != newtext:
+        print('Saving page %s...' % this_page.name)
+        this_page.save(newtext, summary=summary)
+    else:
+        pass
+    # print('Skipping page %s...' % this_page.name)
