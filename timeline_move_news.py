@@ -5,7 +5,7 @@ from dateutil import parser
 site = login('bot', 'cod-esports')  # Set wiki
 summary = 'Attempting to migrate roster change data to data ns'  # Set summary
 
-limit = -1
+limit = 1
 startat_page = None
 print(startat_page)
 # startat_page = 'Raised By Kings'
@@ -13,7 +13,7 @@ print(startat_page)
 # pages = this_template.embeddedin()
 
 tabs_templates = ['TDRight', 'TabsDynamic', 'TD']
-years = ['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
+years = ['2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']
 months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'September', 'October', 'November',
           'December']
 
