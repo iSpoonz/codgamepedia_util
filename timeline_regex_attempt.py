@@ -9,7 +9,7 @@ page_type = 'teams'  # tournament, players, teams
 limit = 1
 startat_page = None
 print(startat_page)
-startat_page = 'Raised By Kings'
+# startat_page = 'User:Ispoonz/TimelineRegexTest'
 template_by_type = {
     'players': 'Player',
     'teams': 'Team',
@@ -36,7 +36,8 @@ approxdate = r"^\* ?" + months + nodate + sentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['Raised By Kings']]
+pages = [site.pages['JuKeD']]
+team_region = 'NA'
 
 
 def process_line(line):
@@ -86,8 +87,6 @@ def process_line(line):
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
             r.add('role', string1role)
-            if match[4] == 'retires':
-                r.add('status', 'retired')
             listofrcplayer += str(r)
         print(listofrcplayer)
 
@@ -96,30 +95,39 @@ def process_line(line):
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
             p.add('role', string2role)
-            # p.add('status', '')
             listofrcplayer2 += str(p)
         print(listofrcplayer2)
 
-        t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
-        t.add('team', page.name)
-        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
-        t.add('source', sourcelist)
-        if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
-            t.add('pre', listofrcplayer2)
-            t.add('post', listofrcplayer)
-        elif match[8] in ['leave', 'leaves']:
-            t.add('pre', listofrcplayer2)
+        if match[4] == 'retires':
+            r = mwparserfromhell.nodes.template.Template('Retirement')
+            r.add('player', player.group(2))
+            r.add('region', team_region)
+            r.add('team', page.name)
+            r.add('source', sourcelist)
+            r.add('date', match[1] + ' ' + match[2])
+            lines[j] = str(r)
+            return r
+        else:
+            t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
+            t.add('team', page.name)
+            t.add('region', team_region)  # DONT KNOW HOW TO GET REGION
+            t.add('source', sourcelist)
+            if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer2)
+                t.add('post', listofrcplayer)
+            elif match[8] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer2)
 
-        if match[8] in ['join', 'joins'] and match[4] in ['leave', 'leaves']:
-            t.add('pre', listofrcplayer)
-            t.add('post', listofrcplayer2)
-        elif match[4] in ['leave', 'leaves']:
-            t.add('pre', listofrcplayer)
-        elif match[4] in ['join', 'joins']:
-            t.add('post', listofrcplayer)
-        t.add('date', match[1] + ' ' + match[2])
-        lines[j] = str(t)
-        return t
+            if match[8] in ['join', 'joins'] and match[4] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer)
+                t.add('post', listofrcplayer2)
+            elif match[4] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer)
+            elif match[4] in ['join', 'joins']:
+                t.add('post', listofrcplayer)
+            t.add('date', match[1] + ' ' + match[2])
+            lines[j] = str(t)
+            return t
 
     match = re.match(noref, line)
     if match:
@@ -146,8 +154,6 @@ def process_line(line):
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
             r.add('role', string1role)
-            if match[4] == 'retires':
-                r.add('status', 'retired')
             listofrcplayer += str(r)
         print(listofrcplayer)
 
@@ -156,7 +162,6 @@ def process_line(line):
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
             p.add('role', string2role)
-            # p.add('status', '')
             listofrcplayer2 += str(p)
         print(listofrcplayer2)
 
@@ -205,8 +210,6 @@ def process_line(line):
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
             r.add('role', string1role)
-            if match[4] == 'retires':
-                r.add('status', 'retired')
             listofrcplayer += str(r)
         print(listofrcplayer)
 
@@ -215,7 +218,6 @@ def process_line(line):
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
             p.add('role', string2role)
-            # p.add('status', '')
             listofrcplayer2 += str(p)
         print(listofrcplayer2)
 
