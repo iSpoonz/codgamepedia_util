@@ -20,7 +20,7 @@ pages = this_template.embeddedin()
 
 months = r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
 date = r" *(\d+)(?:st|th|rd|nd)?[.,]? ?(?:\d\d\d\d,? ?)?(?: *\- *)?"
-nodate = r" \(approx(.+?),"
+nodatesentence = r" \(approx(.+?),(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|(.*))"
 sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)"
 reference = r"\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''"
 alt1 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|(.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
@@ -31,7 +31,7 @@ strip_role = r"^\s(?:(?:as|) (?:a|an|the|)(.+?)|(.+?))\."
 
 regex = r"^\* ?" + months + date + sentence + '<ref>' + reference + '</ref>' + alt1 + alt2
 noref = r"^\* ?" + months + date + sentence
-approxdate = r"^\* ?" + months + nodate + sentence
+approxdate = r"^\* ?" + months + nodatesentence
 
 passed_startat = False if startat_page else True
 lmt = 0
@@ -87,6 +87,7 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
+            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
             if match[4] in ['rejoin', 'rejoins']:
@@ -98,6 +99,7 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
+            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
             if match[8] in ['rejoin', 'rejoins']:
@@ -171,6 +173,7 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
+            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
             if match[4] in ['rejoin', 'rejoins']:
@@ -182,6 +185,7 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
+            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
             if match[8] in ['rejoin', 'rejoins']:
@@ -231,8 +235,8 @@ def process_line(line):
             step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
 
         string1role = ''
-        if match[5] != '.':
-            role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
+        if match[10] is not None:
+            role1regex = re.match(strip_role, ' ' + str(match[10]))  # remove as, and etc from end of sentence 1 to identify role
             string1role = role1regex[1] or role1regex[2]
 
         string2role = ''
@@ -244,6 +248,7 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
+            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
             if match[4] in ['rejoin', 'rejoins']:
@@ -257,6 +262,7 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
+            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
             listofrcplayer2 += str(p)
