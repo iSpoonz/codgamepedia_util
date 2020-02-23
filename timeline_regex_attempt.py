@@ -227,7 +227,7 @@ def process_line(line):
             if match[4] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             if match[8] in ['rejoin', 'rejoins']:
-                p.add('rejoin', 'yes')
+                r.add('rejoin', 'yes')
             listofrcplayer += str(r)
         print(listofrcplayer)
 
