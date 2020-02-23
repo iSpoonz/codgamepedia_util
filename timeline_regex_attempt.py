@@ -36,7 +36,7 @@ approxdate = r"^\* ?" + months + nodate + sentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['Dallas Empire']]
+pages = [site.pages['User:Ispoonz/TimelineRegexTest']]
 team_region = 'NA'  # CDL, NA, EU etc
 
 
@@ -132,6 +132,17 @@ def process_line(line):
                 t.add('pre', listofrcplayer)
             elif match[4] in ['join', 'joins']:
                 t.add('post', listofrcplayer)
+
+            if match[4] in ['rejoins', 'rejoin'] and match[8] in ['join', 'joins']:
+                t.add('post', listofrcplayer + listofrcplayer2)
+            elif match[4] in ['rejoins', 'rejoin'] and match[8] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer2)
+                t.add('post', listofrcplayer)
+            elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['join', 'joins']:
+                t.add('post', listofrcplayer + listofrcplayer2)
+            elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
+                t.add('pre', listofrcplayer)
+                t.add('post', listofrcplayer2)
             t.add('date', match[1] + ' ' + match[2])
             lines[j] = str(t)
             return t
@@ -194,6 +205,17 @@ def process_line(line):
             t.add('pre', listofrcplayer)
         elif match[4] in ['join', 'joins']:
             t.add('post', listofrcplayer)
+
+        if match[4] in ['rejoins', 'rejoin'] and match[8] in ['join', 'joins']:
+            t.add('post', listofrcplayer + listofrcplayer2)
+        elif match[4] in ['rejoins', 'rejoin'] and match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+            t.add('post', listofrcplayer)
+        elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['join', 'joins']:
+            t.add('post', listofrcplayer + listofrcplayer2)
+        elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+            t.add('post', listofrcplayer2)
         t.add('date', match[1] + ' ' + match[2])
         lines[j] = str(t)
         return t
@@ -258,6 +280,17 @@ def process_line(line):
             t.add('pre', listofrcplayer)
         elif match[4] in ['join', 'joins']:
             t.add('post', listofrcplayer)
+
+        if match[4] in ['rejoins', 'rejoin'] and match[8] in ['join', 'joins']:
+            t.add('post', listofrcplayer + listofrcplayer2)
+        elif match[4] in ['rejoins', 'rejoin'] and match[8] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer2)
+            t.add('post', listofrcplayer)
+        elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['join', 'joins']:
+            t.add('post', listofrcplayer + listofrcplayer2)
+        elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
+            t.add('pre', listofrcplayer)
+            t.add('post', listofrcplayer2)
         t.add('date', match[1] + ' 01')
         lines[j] = str(t)
         return t
