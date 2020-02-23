@@ -168,7 +168,7 @@ def process_line(line):
 
         t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
         t.add('team', page.name)
-        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
+        t.add('region', team_region)  # DONT KNOW HOW TO GET REGION
         if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
             t.add('pre', listofrcplayer2)
             t.add('post', listofrcplayer)
@@ -224,7 +224,7 @@ def process_line(line):
 
         t = mwparserfromhell.nodes.template.Template('RosterChangeData/Line')
         t.add('team', page.name)
-        t.add('region', 'NA')  # DONT KNOW HOW TO GET REGION
+        t.add('region', team_region)  # DONT KNOW HOW TO GET REGION
         t.add('display_date', '')
         t.add('approx', 'yes')
         if match[4] in ['join', 'joins'] and match[8] in ['leave', 'leaves']:
