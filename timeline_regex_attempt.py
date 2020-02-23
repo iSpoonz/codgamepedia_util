@@ -2,7 +2,7 @@ from log_into_wiki import *
 import mwparserfromhell, re
 
 site = login('bot', 'cod-esports')  # Set wiki
-summary = 'Attempting to parse old content as templates'  # Set summary
+summary = 'Attempting to parse timeline content as templates'  # Set summary
 
 page_type = 'teams'  # tournament, players, teams
 
@@ -36,7 +36,7 @@ approxdate = r"^\* ?" + months + nodate + sentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['JuKeD']]
+pages = [site.pages['Dallas Empire']]
 team_region = 'NA'
 
 
@@ -62,6 +62,7 @@ def process_line(line):
             role2regex = re.match(strip_role, match[9])
             string2role = role2regex[1] or role2regex[2]
 
+        # up to 3 references can be added to the sourcelist
         sourcelist = ''
         s = mwparserfromhell.nodes.template.Template('Source')
         s.add('link', match[10])

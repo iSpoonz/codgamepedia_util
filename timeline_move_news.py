@@ -18,7 +18,7 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Septe
           'December']
 
 pages = [
-    site.pages['Pnda Gaming']
+    site.pages['Dallas Empire']
 ]
 
 passed_startat = False if startat_page else True
@@ -80,6 +80,8 @@ for page in pages:
                             data_text_new = data_text_tbl[0] + sep + str(param_tl) + '\n' + data_text_tbl[1]
                             data_page.save(data_text_new, summary=summary)
                             param_tl.add('finished', 'yes')
+                    if param_tl.has('finished'):
+                        param_wikitext.remove(param_tl)
                 template.add('content' + str(i), str(param_wikitext))
                 i = i + 1
     newtext = str(wikitext)
