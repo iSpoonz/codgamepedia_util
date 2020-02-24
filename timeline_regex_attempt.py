@@ -37,7 +37,7 @@ passed_startat = False if startat_page else True
 lmt = 0
 
 pages = [site.pages['User:Ispoonz/TimelineRegexTest']]
-team_region = 'NA'  # CDL, NA, EU etc
+team_region = 'CDL'  # CDL, NA, EU etc
 
 
 def process_line(line):
@@ -58,7 +58,7 @@ def process_line(line):
             string1role = role1regex[1] or role1regex[2]
 
         string2role = ''
-        if match[9] != '.' and '':
+        if match[9] != '.' and match[9] is not None:
             role2regex = re.match(strip_role, match[9])
             string2role = role2regex[1] or role2regex[2]
 
@@ -87,9 +87,10 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
+            else:
+                r.add('role', string1role)
             if match[4] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             listofrcplayer += str(r)
@@ -99,9 +100,10 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
+            else:
+                p.add('role', string2role)
             if match[8] in ['rejoin', 'rejoins']:
                 p.add('rejoin', 'yes')
             listofrcplayer2 += str(p)
@@ -135,6 +137,9 @@ def process_line(line):
             elif match[4] in ['join', 'joins']:
                 t.add('post', listofrcplayer)
 
+            if match[4] in ['join', 'joins'] and match[8] in ['join', 'joins']:
+                t.add('post', listofrcplayer + listofrcplayer2)
+
             if match[4] in ['rejoins', 'rejoin'] and match[8] in ['join', 'joins']:
                 t.add('post', listofrcplayer + listofrcplayer2)
             elif match[4] in ['rejoins', 'rejoin'] and match[8] in ['leave', 'leaves']:
@@ -165,7 +170,7 @@ def process_line(line):
             string1role = role1regex[1] or role1regex[2]
 
         string2role = ''
-        if match[9] != '.' and '':
+        if match[9] != '.' and match[9] is not None:
             role2regex = re.match(strip_role, match[9])
             string2role = role2regex[1] or role2regex[2]
 
@@ -173,9 +178,10 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
+            else:
+                r.add('role', string1role)
             if match[4] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             listofrcplayer += str(r)
@@ -185,9 +191,10 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
+            else:
+                p.add('role', string2role)
             if match[8] in ['rejoin', 'rejoins']:
                 p.add('rejoin', 'yes')
             listofrcplayer2 += str(p)
@@ -240,7 +247,7 @@ def process_line(line):
             string1role = role1regex[1] or role1regex[2]
 
         string2role = ''
-        if match[9] != '.' and '':
+        if match[9] != '.' and match[9] is not None:
             role2regex = re.match(strip_role, match[9])
             string2role = role2regex[1] or role2regex[2]
 
@@ -248,12 +255,11 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            r.add('role', string1role)
             if string1role in ['substitute', 'Substitute']:
                 r.add('sub', 'yes')
+            else:
+                r.add('role', string1role)
             if match[4] in ['rejoin', 'rejoins']:
-                r.add('rejoin', 'yes')
-            if match[8] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             listofrcplayer += str(r)
         print(listofrcplayer)
@@ -262,9 +268,12 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            p.add('role', string2role)
             if string2role in ['substitute', 'Substitute']:
                 p.add('sub', 'yes')
+            else:
+                p.add('role', string2role)
+            if match[8] in ['rejoin', 'rejoins']:
+                r.add('rejoin', 'yes')
             listofrcplayer2 += str(p)
         print(listofrcplayer2)
 
