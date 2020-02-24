@@ -18,7 +18,7 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Septe
           'December']
 
 pages = [
-    site.pages['Florida Mutineers']
+    site.pages['Cyclone NA']
 ]
 
 passed_startat = False if startat_page else True

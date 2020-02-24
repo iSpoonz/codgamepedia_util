@@ -36,8 +36,8 @@ approxdate = r"^\* ?" + months + nodatesentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['User:Ispoonz/TimelineRegexTest']]
-team_region = 'CDL'  # CDL, NA, EU etc
+pages = [site.pages['Cyclone NA']]
+team_region = 'NA'  # CDL, NA, EU etc
 
 
 def process_line(line):
@@ -53,7 +53,7 @@ def process_line(line):
             step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
 
         string1role = ''
-        if match[5] != '.':
+        if match[5] != '.' and match[5] is not None:
             role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
             string1role = role1regex[1] or role1regex[2]
 
@@ -87,7 +87,7 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            if string1role in ['substitute', 'Substitute']:
+            if string1role in ['substitute', 'Substitute', 'substitutes']:
                 r.add('sub', 'yes')
             else:
                 r.add('role', string1role)
@@ -100,7 +100,7 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            if string2role in ['substitute', 'Substitute']:
+            if string2role in ['substitute', 'Substitute', 'substitutes']:
                 p.add('sub', 'yes')
             else:
                 p.add('role', string2role)
@@ -150,6 +150,8 @@ def process_line(line):
             elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
                 t.add('pre', listofrcplayer)
                 t.add('post', listofrcplayer2)
+            elif match[4] in ['rejoins', 'rejoin']:
+                t.add('post', listofrcplayer)
             t.add('date', match[1] + ' ' + match[2])
             lines[j] = str(t)
             return t
@@ -165,7 +167,7 @@ def process_line(line):
             step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
 
         string1role = ''
-        if match[5] != '.':
+        if match[5] != '.' and match[5] is not None:
             role1regex = re.match(strip_role, match[5])  # remove as, and etc from end of sentence 1 to identify role
             string1role = role1regex[1] or role1regex[2]
 
@@ -178,7 +180,7 @@ def process_line(line):
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            if string1role in ['substitute', 'Substitute']:
+            if string1role in ['substitute', 'Substitute', 'substitutes']:
                 r.add('sub', 'yes')
             else:
                 r.add('role', string1role)
@@ -191,7 +193,7 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            if string2role in ['substitute', 'Substitute']:
+            if string2role in ['substitute', 'Substitute', 'substitutes']:
                 p.add('sub', 'yes')
             else:
                 p.add('role', string2role)
@@ -227,6 +229,8 @@ def process_line(line):
         elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
             t.add('pre', listofrcplayer)
             t.add('post', listofrcplayer2)
+        elif match[4] in ['rejoins', 'rejoin']:
+            t.add('post', listofrcplayer)
         t.add('date', match[1] + ' ' + match[2])
         lines[j] = str(t)
         return t
@@ -242,20 +246,15 @@ def process_line(line):
             step2 = re.finditer(identify_players, str(string2))  # find player names inside brackets
 
         string1role = ''
-        if match[10] is not None:
+        if match[10] != '' and match[10] is not None:
             role1regex = re.match(strip_role, ' ' + str(match[10]))  # remove as, and etc from end of sentence 1 to identify role
             string1role = role1regex[1] or role1regex[2]
-
-        string2role = ''
-        if match[9] != '.' and match[9] is not None:
-            role2regex = re.match(strip_role, match[9])
-            string2role = role2regex[1] or role2regex[2]
 
         listofrcplayer = ''
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
             r.add('player', player.group(2))
-            if string1role in ['substitute', 'Substitute']:
+            if string1role in ['substitute', 'Substitute', 'substitutes']:
                 r.add('sub', 'yes')
             else:
                 r.add('role', string1role)
@@ -268,10 +267,6 @@ def process_line(line):
         for player2 in step2:
             p = mwparserfromhell.nodes.template.Template('RCPlayer')
             p.add('player', player2.group(2))
-            if string2role in ['substitute', 'Substitute']:
-                p.add('sub', 'yes')
-            else:
-                p.add('role', string2role)
             if match[8] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             listofrcplayer2 += str(p)
@@ -306,6 +301,8 @@ def process_line(line):
         elif match[8] in ['rejoins', 'rejoin'] and match[4] in ['leave', 'leaves']:
             t.add('pre', listofrcplayer)
             t.add('post', listofrcplayer2)
+        elif match[4] in ['rejoins', 'rejoin']:
+            t.add('post', listofrcplayer)
         t.add('date', match[1] + ' 01')
         lines[j] = str(t)
         return t
@@ -335,7 +332,10 @@ for page in pages:
                 content = template.get('content' + str(i)).value.strip()
                 lines = content.split('\n')
                 for j, line in enumerate(lines):
-                    tl = process_line(line)
+                    try:
+                        tl = process_line(line)
+                    except TypeError:
+                        pass
                     if tl:
                         lines[j] = str(tl)
                 template.add('content' + str(i), '\n'.join(lines))
