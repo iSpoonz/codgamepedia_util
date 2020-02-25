@@ -21,12 +21,12 @@ pages = this_template.embeddedin()
 months = r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
 date = r" *(\d+)(?:st|th|rd|nd)?[.,]? ?(?:\d\d\d\d,? ?)?(?: *\- *)?"
 nodatesentence = r" \(approx(.+?),(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|(.*))"
-sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)"
-reference = r"\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''"
+sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)(?:| )"
+reference = r"(?:| )\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''(?:| )"
 alt1 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|(.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
 alt2 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
 
-identify_players = r"({{bl\||\[\[)(.+?)(\||}}|]])"
+identify_players = r"({{bl\||{{Bl\||\[\[)(.+?)(\||}}|]])"
 strip_role = r"^\s(?:(?:as|) (?:a|an|the|)(.+?)|(.+?))\."
 
 regex = r"^\* ?" + months + date + sentence + '<ref>' + reference + '</ref>' + alt1 + alt2
@@ -36,7 +36,7 @@ approxdate = r"^\* ?" + months + nodatesentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['Cyclone NA']]
+pages = [site.pages['User:Ispoonz/TimelineRegexTest']]
 team_region = 'NA'  # CDL, NA, EU etc
 
 
@@ -335,6 +335,7 @@ for page in pages:
                     try:
                         tl = process_line(line)
                     except TypeError:
+                        print(TypeError)
                         pass
                     if tl:
                         lines[j] = str(tl)
