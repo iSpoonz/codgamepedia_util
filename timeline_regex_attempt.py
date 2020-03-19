@@ -21,12 +21,12 @@ pages = this_template.embeddedin()
 months = r"(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?"
 date = r" *(\d+)(?:st|th|rd|nd)?[.,]? ?(?:\d\d\d\d,? ?)?(?: *\- *)?"
 nodatesentence = r" \(approx(.+?),(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|(.*))"
-sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)(?:| )"
+sentence = r"(.+?) (rejoins|rejoin|leaves|leave|joins|join|retires|becomes)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)(?:| )"
 reference = r"(?:| )\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''(?:| )"
 alt1 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|(.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)((.+?) (rejoins|rejoin|leaves|leave|joins|join)(.+?)|)<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
 alt2 = r"(<ref>\[(.+?) ([^\]]*)\] ?(?:\([\dms]+\) )? ?(?: *\- *)?''(.+?)''</ref>|)"
 
-identify_players = r"({{bl\||{{Bl\||\[\[)(.+?)(\||}}|]])"
+identify_players = r"({{bl\||{{Bl\||\[\[|''')(.+?)(\||}}|]]|''')"
 strip_role = r"^\s(?:(?:as|) (?:a|an|the|)(.+?)|(.+?))\."
 
 regex = r"^\* ?" + months + date + sentence + '<ref>' + reference + '</ref>' + alt1 + alt2
@@ -36,7 +36,7 @@ approxdate = r"^\* ?" + months + nodatesentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages['User:Ispoonz/TimelineRegexTest']]
+pages = [site.pages["Splyce"]]
 team_region = 'NA'  # CDL, NA, EU etc
 
 
@@ -84,16 +84,23 @@ def process_line(line):
         print(sourcelist)
 
         listofrcplayer = ''
+        rfa = ''
         for player in step1:  # loop through step1 list making new template for each new player
             r = mwparserfromhell.nodes.template.Template('RCPlayer')
+            rfa = player.group(2)
             r.add('player', player.group(2))
             if string1role in ['substitute', 'Substitute', 'substitutes']:
                 r.add('sub', 'yes')
-            else:
+            elif string1role in ['restricted free agent', 'Restricted Free Agent']:
+                r.add('status', 'opportunities')
+            elif string1role != '':
                 r.add('role', string1role)
             if match[4] in ['rejoin', 'rejoins']:
                 r.add('rejoin', 'yes')
             listofrcplayer += str(r)
+        rfapre = mwparserfromhell.nodes.template.Template('RCPlayer')
+        rfapre.add('player', rfa)
+        print(rfapre)
         print(listofrcplayer)
 
         listofrcplayer2 = ''
@@ -151,6 +158,10 @@ def process_line(line):
                 t.add('pre', listofrcplayer)
                 t.add('post', listofrcplayer2)
             elif match[4] in ['rejoins', 'rejoin']:
+                t.add('post', listofrcplayer)
+
+            if string1role in ['restricted free agent', 'Restricted Free Agent']:
+                t.add('pre', rfapre)
                 t.add('post', listofrcplayer)
             t.add('date', match[1] + ' ' + match[2])
             lines[j] = str(t)
