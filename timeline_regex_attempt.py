@@ -36,7 +36,7 @@ approxdate = r"^\* ?" + months + nodatesentence
 passed_startat = False if startat_page else True
 lmt = 0
 
-pages = [site.pages["Splyce"]]
+pages = [site.pages["Evil Geniuses"]]
 team_region = 'NA'  # CDL, NA, EU etc
 
 
@@ -93,6 +93,8 @@ def process_line(line):
                 r.add('sub', 'yes')
             elif string1role in ['restricted free agent', 'Restricted Free Agent']:
                 r.add('status', 'opportunities')
+            elif string1role in ['inactive']:
+                r.add('status', 'inactive')
             elif string1role != '':
                 r.add('role', string1role)
             if match[4] in ['rejoin', 'rejoins']:
@@ -100,7 +102,6 @@ def process_line(line):
             listofrcplayer += str(r)
         rfapre = mwparserfromhell.nodes.template.Template('RCPlayer')
         rfapre.add('player', rfa)
-        print(rfapre)
         print(listofrcplayer)
 
         listofrcplayer2 = ''
@@ -161,6 +162,10 @@ def process_line(line):
                 t.add('post', listofrcplayer)
 
             if string1role in ['restricted free agent', 'Restricted Free Agent']:
+                t.add('pre', rfapre)
+                t.add('post', listofrcplayer)
+
+            if string1role in ['inactive']:
                 t.add('pre', rfapre)
                 t.add('post', listofrcplayer)
             t.add('date', match[1] + ' ' + match[2])
