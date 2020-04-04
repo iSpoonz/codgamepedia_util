@@ -145,6 +145,6 @@ def check_and_make_redirects(d, page_prefix, redirect_text):
 if __name__ == "__main__":
     this = 'news'
     credentials = AuthCredentials(user_file="me")
-    site = EsportsClient('valorant', credentials=credentials)  # Set wiki
+    site = EsportsClient('valorant-esports', credentials=credentials)  # Set wiki
     make_templates(this)
     make_data_pages(range(2020, 2021), this, startat_page=None)

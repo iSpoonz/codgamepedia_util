@@ -5,7 +5,7 @@ from river_mwclient.errors import EsportsCacheKeyError
 
 credentials = AuthCredentials(user_file='me')
 
-site = EsportsClient('cod', credentials=credentials)
+site = EsportsClient('cod-esports', credentials=credentials)
 
 print(site.cache.get('Team', 'tsm', 'link'))
 
