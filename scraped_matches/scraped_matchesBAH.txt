@@ -1,0 +1,18 @@
+{{MatchSchedule|team1=Agranu eSports |team2=AMA ESPORTS |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Venoms |team2=5 Angry Birds |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Siren eSports |team2=I DONT KNOW |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Agranu eSports |team2=KIMI NO NAWA |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMA ESPORTS |team2=5 Angry Birds |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Venoms |team2=Siren eSports |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Agranu eSports |team2=5 Angry Birds |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KIMI NO NAWA |team2=I DONT KNOW |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMA ESPORTS |team2=Siren eSports |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Agranu eSports |team2=I DONT KNOW |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=5 Angry Birds |team2=Siren eSports |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KIMI NO NAWA |team2=Venoms |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Agranu eSports |team2=Siren eSports |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=I DONT KNOW |team2=Venoms |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KIMI NO NAWA |team2=AMA ESPORTS |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Agranu eSports |team2=Venoms |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=I DONT KNOW |team2=AMA ESPORTS |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=5 Angry Birds |team2=KIMI NO NAWA |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}

@@ -1,0 +1,31 @@
+﻿{{MatchSchedule|team1=DarkMask |team2=Lords Of Cinder |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=w3ck |team2=The Fighters |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ak47 squad |team2=IRAQ STARS |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheLastBots |team2=Titans |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Good night killers |team2=Dark Cosmic |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=dark night |team2=Dolnka |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Grave Diggers |team2=ASCENDANTS |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rangers |team2=Infinite Roar |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team OF Jassim |team2=Velox |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fatigue Team |team2=Dynamic Syndrome |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Toxic Teletubbies |team2=THE UNFORGIVEN |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Peaky 3 Blinders |team2=Military Battalion |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ProHunterZ |team2=Vow Of Will |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DarkMask |team2=The Fighters |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lords Of Cinder |team2=w3ck |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ghost2g |team2=IRAQ STARS |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Humble |team2=Titans |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Duhoky Carryz |team2=Dark Cosmic |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=dark night |team2=ASCENDANTS |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dolnka |team2=Grave Diggers |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rangers |team2=Velox |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Infinite Roar |team2=Team OF Jassim |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fatigue Team |team2=THE UNFORGIVEN |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dynamic Syndrome |team2=Team Toxic Teletubbies |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Peaky 3 Blinders |team2=Vow Of Will |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Military Battalion |team2=ProHunterZ |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DarkMask |team2=w3ck |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Fighters |team2=Lords Of Cinder |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ghost2g |team2=ak47 squad |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Humble |team2=TheLastBots |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Duhoky Carryz |team2=Good night killers |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}

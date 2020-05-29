@@ -1,0 +1,121 @@
+﻿{{MatchSchedule|team1=SZSHS |team2=Misty |team1score= |team2score= |winner= |date=2020-05-29|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The wize |team2=Sindibad |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Warriors of Ionia |team2=UMK |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ozonex |team2=TeamHumbleBrothers |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UAE Ravens |team2=Nahda City Boiz |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beef Jerky |team2=Kneel to Assassins |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Pepega Pig |team2=Masarwa |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fail 2 Win |team2=Galaxy Racer Esports |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team AutoFill |team2=Quraish |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Falcons |team2=7O7 |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black |team2=Karo Shi |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=200 Years |team2=Jung DIFF |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ThyNoobs |team2=Electronic Gamer Girls |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=Arcane of Light |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Baladia |team2=Ravenclaw Elite |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EweEweEwe |team2=TheDarkSide |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=Black Pearl |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Mystic |team2=WINNABLE |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GHOSTS LOL TEAM |team2=This is Gamma |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Bolt 1 |team2=Misty |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Homeboys |team2=LOST |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SZSHS |team2=Redline Gaming |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=L8R Beach |team2=Beyond Quintessence |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The goal diggers |team2=Smurfs in Tournament |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zayed's Pride |team2=Rag Tag Group of Guys |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The wize |team2=UMK |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sindibad |team2=TeamHumbleBrothers |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Warriors of Ionia |team2=Ozonex |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UAE Ravens |team2=Kneel to Assassins |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nahda City Boiz |team2=Masarwa |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beef Jerky |team2=Pepega Pig |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fail 2 Win |team2=Quraish |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Galaxy Racer Esports |team2=7O7 |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team AutoFill |team2=Falcons |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black |team2=Jung DIFF |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Karo Shi |team2=Electronic Gamer Girls |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=200 Years |team2=ThyNoobs |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=KamiKaze |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Arcane of Light |team2=Ravenclaw Elite |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Baladia |team2=EweEweEwe |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=AESlayers |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black Pearl |team2=WINNABLE |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Mystic |team2=GHOSTS LOL TEAM |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Bolt 1 |team2=LOST |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Misty |team2=Redline Gaming |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Homeboys |team2=SZSHS |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=L8R Beach |team2=Smurfs in Tournament |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beyond Quintessence |team2=Rag Tag Group of Guys |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The goal diggers |team2=Zayed's Pride |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The wize |team2=TeamHumbleBrothers |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UMK |team2=Ozonex |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sindibad |team2=Warriors of Ionia |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UAE Ravens |team2=Masarwa |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Kneel to Assassins |team2=Pepega Pig |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nahda City Boiz |team2=Beef Jerky |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fail 2 Win |team2=7O7 |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Quraish |team2=Falcons |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Galaxy Racer Esports |team2=Team AutoFill |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black |team2=Electronic Gamer Girls |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jung DIFF |team2=ThyNoobs |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Karo Shi |team2=200 Years |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=Ravenclaw Elite |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KamiKaze |team2=TheDarkSide |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Arcane of Light |team2=EweEweEwe |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=WINNABLE |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AESlayers |team2=This is Gamma |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black Pearl |team2=GHOSTS LOL TEAM |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Bolt 1 |team2=Redline Gaming |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LOST |team2=SZSHS |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Misty |team2=Homeboys |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=L8R Beach |team2=Rag Tag Group of Guys |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Smurfs in Tournament |team2=Zayed's Pride |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beyond Quintessence |team2=The goal diggers |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The wize |team2=Ozonex |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TeamHumbleBrothers |team2=Warriors of Ionia |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UMK |team2=Sindibad |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UAE Ravens |team2=Pepega Pig |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Masarwa |team2=Beef Jerky |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Kneel to Assassins |team2=Nahda City Boiz |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fail 2 Win |team2=Falcons |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=7O7 |team2=Team AutoFill |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Quraish |team2=Galaxy Racer Esports |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black |team2=ThyNoobs |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Electronic Gamer Girls |team2=200 Years |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jung DIFF |team2=Karo Shi |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=TheDarkSide |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ravenclaw Elite |team2=EweEweEwe |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KamiKaze |team2=Baladia |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=This is Gamma |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WINNABLE |team2=GHOSTS LOL TEAM |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AESlayers |team2=Mystic |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Bolt 1 |team2=SZSHS |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Redline Gaming |team2=Homeboys |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LOST |team2=Misty |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=L8R Beach |team2=Zayed's Pride |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rag Tag Group of Guys |team2=The goal diggers |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Smurfs in Tournament |team2=Beyond Quintessence |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The wize |team2=Warriors of Ionia |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ozonex |team2=Sindibad |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TeamHumbleBrothers |team2=UMK |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UAE Ravens |team2=Beef Jerky |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Pepega Pig |team2=Nahda City Boiz |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Masarwa |team2=Kneel to Assassins |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fail 2 Win |team2=Team AutoFill |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Falcons |team2=Galaxy Racer Esports |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=7O7 |team2=Quraish |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black |team2=200 Years |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ThyNoobs |team2=Karo Shi |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Electronic Gamer Girls |team2=Jung DIFF |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=EweEweEwe |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheDarkSide |team2=Baladia |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KamiKaze |team2=Arcane of Light |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=GHOSTS LOL TEAM |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=This is Gamma |team2=Mystic |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AESlayers |team2=Black Pearl |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Parapell |team2=Baladia |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheDarkSide |team2=Arcane of Light |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ravenclaw Elite |team2=KamiKaze |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RAMRANCH |team2=Mystic |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=This is Gamma |team2=Black Pearl |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WINNABLE |team2=AESlayers |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}

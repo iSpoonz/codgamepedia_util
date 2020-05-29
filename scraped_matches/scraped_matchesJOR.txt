@@ -1,0 +1,40 @@
+﻿{{MatchSchedule|team1=Gudu Gaming |team2=K1 Team |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ResQue C |team2=Surrender |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FLAMERS GAMING |team2=jor.q |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=CloudWalkers |team2=Hardstuck Rank1 |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jo pla |team2=Vatrox |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=vipers |team2=We Always Win |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black Ops |team2=7oMoS O FalaFel |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Platinum Esports |team2=Anonymous |team1score= |team2score= |winner= |date=2020-05-30|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SKT Family |team2=jo luckies |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=arabteam |team2=feeders year |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Challengers Of Night |team2=Handless |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cracked |team2=ResQue B |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=nameless |team2=EboyZ |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=OneHookMan |team2=Team Solid |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=9rt mswi team? |team2=ResQue A |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Royal Rush B |team2=karasuno |team1score= |team2score= |winner= |date=2020-06-12|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ResQue C |team2=jor.q |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Surrender |team2=FLAMERS GAMING |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=CloudWalkers |team2=Vatrox |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hardstuck Rank1 |team2=jo pla |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Gudu Gaming |team2=We Always Win |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=K1 Team |team2=vipers |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black Ops |team2=Anonymous |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=7oMoS O FalaFel |team2=Platinum Esports |team1score= |team2score= |winner= |date=2020-06-19|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SKT Family |team2=feeders year |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jo luckies |team2=arabteam |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Challengers Of Night |team2=ResQue B |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Handless |team2=Cracked |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=nameless |team2=Team Solid |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EboyZ |team2=OneHookMan |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=9rt mswi team? |team2=karasuno |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ResQue A |team2=Royal Rush B |team1score= |team2score= |winner= |date=2020-06-26|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ResQue C |team2=FLAMERS GAMING |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jor.q |team2=Surrender |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=CloudWalkers |team2=jo pla |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vatrox |team2=Hardstuck Rank1 |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Gudu Gaming |team2=vipers |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=We Always Win |team2=K1 Team |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Black Ops |team2=Platinum Esports |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Anonymous |team2=7oMoS O FalaFel |team1score= |team2score= |winner= |date=2020-07-03|time=20:00 |timezone=CET |dst=yes |stream= }}

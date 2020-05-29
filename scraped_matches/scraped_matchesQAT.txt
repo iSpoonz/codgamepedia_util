@@ -1,0 +1,60 @@
+﻿{{MatchSchedule|team1=ConfusedFriends |team2=Newbies |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Maroon Gaming |team2=skyline gaming |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SNRG Esports |team2=Noobs Unleashed |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=QTRz |team2=Ignition eSports |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Crows |team2=Never Eat Bat |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Oryx |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=skyline gaming |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Newbies |team2=Noobs Unleashed |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Maroon Gaming |team2=Ignition eSports |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SNRG Esports |team2=Never Eat Bat |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=QTRz |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Crows |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=Noobs Unleashed |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=skyline gaming |team2=Ignition eSports |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Newbies |team2=Never Eat Bat |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Maroon Gaming |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SNRG Esports |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=QTRz |team2=The Crows |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=Ignition eSports |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs Unleashed |team2=Never Eat Bat |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=skyline gaming |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Newbies |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Maroon Gaming |team2=The Crows |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SNRG Esports |team2=QTRz |team1score= |team2score= |winner= |date=2020-06-12|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=Never Eat Bat |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ignition eSports |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs Unleashed |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=skyline gaming |team2=The Crows |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Newbies |team2=QTRz |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Maroon Gaming |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-06-13|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=BackW7oo4 |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Never Eat Bat |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ignition eSports |team2=The Crows |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs Unleashed |team2=QTRz |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=skyline gaming |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Newbies |team2=Maroon Gaming |team1score= |team2score= |winner= |date=2020-06-26|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=The Oryx |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BackW7oo4 |team2=The Crows |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Never Eat Bat |team2=QTRz |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ignition eSports |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs Unleashed |team2=Maroon Gaming |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=skyline gaming |team2=Newbies |team1score= |team2score= |winner= |date=2020-06-27|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=The Crows |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Oryx |team2=QTRz |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BackW7oo4 |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Never Eat Bat |team2=Maroon Gaming |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ignition eSports |team2=Newbies |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs Unleashed |team2=skyline gaming |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=QTRz |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Crows |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Oryx |team2=Maroon Gaming |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BackW7oo4 |team2=Newbies |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Never Eat Bat |team2=skyline gaming |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ignition eSports |team2=Noobs Unleashed |team1score= |team2score= |winner= |date=2020-07-10|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ConfusedFriends |team2=SNRG Esports |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=QTRz |team2=Maroon Gaming |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Crows |team2=Newbies |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Oryx |team2=skyline gaming |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BackW7oo4 |team2=Noobs Unleashed |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Never Eat Bat |team2=Ignition eSports |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}

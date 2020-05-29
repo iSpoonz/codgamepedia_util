@@ -1,0 +1,347 @@
+{{MatchSchedule|team1=Sticky Fingers |team2=DZ asapmao |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=4w1b |team2=High 9 |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=OURALUS OCULUS CUNTUS |team2=No Names |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AlphaPlayerZ |team2=REKT GAMING |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SMOKERS GAMING |team2=Solo Death |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Arab Warriors |team2=RANDOMS |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Metallica Tghani Ray |team2=ALGERIE TELECOM |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DzWinners |team2=Algerians with attitude |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Taigun Esports |team2=les-pins |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=zmbraka |team2=Team shala bala |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Clap |team2=the best players |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bellé jay fi frod |team2=Zoldyck e-sports |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ApachesDz |team2=FAKER |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Force |team2=Light In Dark |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Swords of faith |team2=Lunar déserters |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The mnanuks |team2=ErroxTeam |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overmind |team2=Dragons x Monsters |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dototeam |team2=Death Crown |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=night's quietness |team2=Beasts Alg |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Grimoire Heart |team2=nochill gang |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZSICKSQUAD |team2=Outplayers |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=best0s |team2=Thirsty For Blood |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=yetnhawga3 |team2=Dessert Hyenas |team1score= |team2score= |winner= |date=2020-05-29|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=They See Us Rollin |team2=UnKnownS |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Gold hard stack |team2=Shkopistan |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=afk8masters |team2=LOL PRO GAMERS |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The dominaters |team2=FENEC |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ackermans |team2=PIRATES |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerie telecom Team1 |team2=Ready pentakill |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fari9 Ossod Choja3 |team2=Dzair Outlaws |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerie telecom Team1 |team2=Ready pentakill |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fari9 Ossod Choja3 |team2=Dzair Outlaws |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LUNAR WOLVES |team2=infinity |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Skillers |team2=wood elo wins |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=was'up man |team2=TeamGates |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Eagles |team2=DZ Gaming |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Target Kings e-sports |team2=LEVEL UP |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bagi |team2=League of Hellers |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The less cringier the better |team2=TEAM DEZERT |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=cezayer |team2=Aspect Team 1 |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lahbab |team2=LAKIDZ |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ro3B |team2=End Up Last |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dota team |team2=Angry Apes |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BIG SHACK |team2=dfadi3 |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Aspect Team |team2=No One Cares |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs are Coming |team2=NEVER GIVE UP |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Attemptin to reconnect |team2=E-sports Owl Team |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Enemy Team |team2=algerin telecome |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Pillars of Light |team2=Les Fennecs |team1score= |team2score= |winner= |date=2020-05-30|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=High 9 |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ asapmao |team2=No Names |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=4w1b |team2=REKT GAMING |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=OURALUS OCULUS CUNTUS |team2=AlphaPlayerZ |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=Solo Death |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Let Us Win plz |team2=RANDOMS |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SMOKERS GAMING |team2=Raid |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Arab Warriors |team2=Demon slayers |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=ALGERIE TELECOM |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Metallica Tghani Ray |team2=les-pins |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DzWinners |team2=Taigun Esports |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=Team shala bala |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=zmbraka |team2=Zoldyck e-sports |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thunder Clap |team2=bellé jay fi frod |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=FAKER |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ApachesDz |team2=The Warriors DZ |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Force |team2=Ashina Clan |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=Lunar déserters |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Swords of faith |team2=Dragons x Monsters |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The mnanuks |team2=Overmind |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=Death Crown |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=Outplayers |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZSICKSQUAD |team2=Dessert Hyenas |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=best0s |team2=yetnhawga3 |team1score= |team2score= |winner= |date=2020-06-05|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=UnKnownS |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=They See Us Rollin |team2=LOL PRO GAMERS |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Gold hard stack |team2=afk8masters |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=FENEC |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The dominaters |team2=Ready pentakill |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ackermans |team2=algerie telecom Team1 |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=Dzair Outlaws |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fari9 Ossod Choja3 |team2=wood elo wins |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LUNAR WOLVES |team2=Skillers |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=TeamGates |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=was'up man |team2=LEVEL UP |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Eagles |team2=Target Kings e-sports |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=League of Hellers |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bagi |team2=Aspect Team 1 |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The less cringier the better |team2=cezayer |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=LAKIDZ |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lahbab |team2=Angry Apes |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ro3B |team2=Dota team |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=dfadi3 |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BIG SHACK |team2=NEVER GIVE UP |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Aspect Team |team2=Noobs are Coming |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=E-sports Owl Team |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Attemptin to reconnect |team2=Les Fennecs |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Enemy Team |team2=Pillars of Light |team1score= |team2score= |winner= |date=2020-06-06|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=No Names |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=High 9 |team2=REKT GAMING |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ asapmao |team2=AlphaPlayerZ |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=4w1b |team2=OURALUS OCULUS CUNTUS |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=RANDOMS |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Solo Death |team2=Raid |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Let Us Win plz |team2=Demon slayers |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SMOKERS GAMING |team2=Arab Warriors |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=Algerians with attitude |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ALGERIE TELECOM |team2=les-pins |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Metallica Tghani Ray |team2=DzWinners |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=the best players |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team shala bala |team2=Zoldyck e-sports |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=zmbraka |team2=Thunder Clap |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=Light In Dark |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FAKER |team2=The Warriors DZ |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ApachesDz |team2=DZ Force |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=ErroxTeam |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lunar déserters |team2=Dragons x Monsters |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Swords of faith |team2=The mnanuks |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=Beasts Alg |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Death Crown |team2=nochill gang |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dototeam |team2=night's quietness |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=Thirsty For Blood |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Outplayers |team2=Dessert Hyenas |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZSICKSQUAD |team2=best0s |team1score= |team2score= |winner= |date=2020-06-12|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=Shkopistan |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UnKnownS |team2=LOL PRO GAMERS |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=They See Us Rollin |team2=Gold hard stack |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=PIRATES |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FENEC |team2=Ready pentakill |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The dominaters |team2=ackermans |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=infinity |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dzair Outlaws |team2=wood elo wins |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Fari9 Ossod Choja3 |team2=LUNAR WOLVES |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=DZ Gaming |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TeamGates |team2=LEVEL UP |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=was'up man |team2=DZ Eagles |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=TEAM DEZERT |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=League of Hellers |team2=Aspect Team 1 |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bagi |team2=The less cringier the better |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=End Up Last |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LAKIDZ |team2=Angry Apes |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=End Up Last |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LAKIDZ |team2=Angry Apes |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lahbab |team2=Ro3B |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=No One Cares |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=dfadi3 |team2=NEVER GIVE UP |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BIG SHACK |team2=Aspect Team |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=algerin telecome |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=E-sports Owl Team |team2=Les Fennecs |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Attemptin to reconnect |team2=Enemy Team |team1score= |team2score= |winner= |date=2020-06-13|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=REKT GAMING |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No Names |team2=AlphaPlayerZ |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=High 9 |team2=OURALUS OCULUS CUNTUS |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ asapmao |team2=4w1b |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=Raid |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RANDOMS |team2=Demon slayers |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Solo Death |team2=Arab Warriors |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Let Us Win plz |team2=SMOKERS GAMING |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=les-pins |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Algerians with attitude |team2=Taigun Esports |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ALGERIE TELECOM |team2=DzWinners |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=Zoldyck e-sports |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=the best players |team2=bellé jay fi frod |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team shala bala |team2=Thunder Clap |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=The Warriors DZ |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Light In Dark |team2=Ashina Clan |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FAKER |team2=DZ Force |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=Dragons x Monsters |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ErroxTeam |team2=Overmind |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lunar déserters |team2=The mnanuks |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=nochill gang |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beasts Alg |team2=Grimoire Heart |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Death Crown |team2=night's quietness |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=Dessert Hyenas |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thirsty For Blood |team2=yetnhawga3 |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Outplayers |team2=best0s |team1score= |team2score= |winner= |date=2020-06-19|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=LOL PRO GAMERS |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Shkopistan |team2=afk8masters |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=UnKnownS |team2=Gold hard stack |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=Ready pentakill |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=PIRATES |team2=algerie telecom Team1 |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FENEC |team2=ackermans |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=wood elo wins |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=infinity |team2=Skillers |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dzair Outlaws |team2=LUNAR WOLVES |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=LEVEL UP |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Gaming |team2=Target Kings e-sports |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TeamGates |team2=DZ Eagles |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=Aspect Team 1 |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TEAM DEZERT |team2=cezayer |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=League of Hellers |team2=The less cringier the better |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=Angry Apes |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=End Up Last |team2=Dota team |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LAKIDZ |team2=Ro3B |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=NEVER GIVE UP |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No One Cares |team2=Noobs are Coming |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=dfadi3 |team2=Aspect Team |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=Les Fennecs |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerin telecome |team2=Pillars of Light |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=E-sports Owl Team |team2=Enemy Team |team1score= |team2score= |winner= |date=2020-06-20|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=AlphaPlayerZ |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=High 9 |team2=DZ asapmao |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=Demon slayers |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Raid |team2=Arab Warriors |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RANDOMS |team2=SMOKERS GAMING |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Solo Death |team2=Let Us Win plz |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=Taigun Esports |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=les-pins |team2=DzWinners |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Algerians with attitude |team2=Metallica Tghani Ray |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=bellé jay fi frod |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoldyck e-sports |team2=Thunder Clap |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=the best players |team2=zmbraka |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=Ashina Clan |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Warriors DZ |team2=DZ Force |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Light In Dark |team2=ApachesDz |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=Overmind |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dragons x Monsters |team2=The mnanuks |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ErroxTeam |team2=Swords of faith |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=Grimoire Heart |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=nochill gang |team2=night's quietness |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beasts Alg |team2=Dototeam |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=yetnhawga3 |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dessert Hyenas |team2=best0s |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thirsty For Blood |team2=DZSICKSQUAD |team1score= |team2score= |winner= |date=2020-06-26|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=afk8masters |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LOL PRO GAMERS |team2=Gold hard stack |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Shkopistan |team2=They See Us Rollin |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=algerie telecom Team1 |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ready pentakill |team2=ackermans |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=PIRATES |team2=The dominaters |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=Skillers |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=wood elo wins |team2=LUNAR WOLVES |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=infinity |team2=Fari9 Ossod Choja3 |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=Target Kings e-sports |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LEVEL UP |team2=DZ Eagles |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Gaming |team2=was'up man |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=cezayer |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Aspect Team 1 |team2=The less cringier the better |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TEAM DEZERT |team2=bagi |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=Dota team |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Angry Apes |team2=Ro3B |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=End Up Last |team2=team lahbab |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=Noobs are Coming |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NEVER GIVE UP |team2=Aspect Team |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No One Cares |team2=BIG SHACK |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=Pillars of Light |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Les Fennecs |team2=Enemy Team |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerin telecome |team2=Attemptin to reconnect |team1score= |team2score= |winner= |date=2020-06-27|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=OURALUS OCULUS CUNTUS |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AlphaPlayerZ |team2=4w1b |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=REKT GAMING |team2=DZ asapmao |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No Names |team2=High 9 |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=Arab Warriors |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Demon slayers |team2=SMOKERS GAMING |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Raid |team2=Let Us Win plz |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RANDOMS |team2=Solo Death |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=DzWinners |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Taigun Esports |team2=Metallica Tghani Ray |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Algerians with attitude |team2=ALGERIE TELECOM |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=Thunder Clap |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bellé jay fi frod |team2=zmbraka |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=the best players |team2=Team shala bala |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=DZ Force |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ashina Clan |team2=ApachesDz |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Light In Dark |team2=FAKER |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=The mnanuks |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overmind |team2=Swords of faith |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ErroxTeam |team2=Lunar déserters |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=night's quietness |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Grimoire Heart |team2=Dototeam |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beasts Alg |team2=Death Crown |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=best0s |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=yetnhawga3 |team2=DZSICKSQUAD |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Thirsty For Blood |team2=Outplayers |team1score= |team2score= |winner= |date=2020-07-03|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=Gold hard stack |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=afk8masters |team2=They See Us Rollin |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Shkopistan |team2=UnKnownS |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=ackermans |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerie telecom Team1 |team2=The dominaters |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=PIRATES |team2=FENEC |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=LUNAR WOLVES |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Skillers |team2=Fari9 Ossod Choja3 |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=infinity |team2=Dzair Outlaws |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=DZ Eagles |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Target Kings e-sports |team2=was'up man |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DZ Gaming |team2=TeamGates |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=The less cringier the better |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=cezayer |team2=bagi |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TEAM DEZERT |team2=League of Hellers |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=Ro3B |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dota team |team2=team lahbab |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=End Up Last |team2=LAKIDZ |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=Aspect Team |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs are Coming |team2=BIG SHACK |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No One Cares |team2=dfadi3 |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=Enemy Team |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Pillars of Light |team2=Attemptin to reconnect |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerin telecome |team2=E-sports Owl Team |team1score= |team2score= |winner= |date=2020-07-04|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sticky Fingers |team2=4w1b |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=OURALUS OCULUS CUNTUS |team2=DZ asapmao |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AlphaPlayerZ |team2=High 9 |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=REKT GAMING |team2=No Names |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WATTATOO |team2=SMOKERS GAMING |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Arab Warriors |team2=Let Us Win plz |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Demon slayers |team2=Solo Death |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Raid |team2=RANDOMS |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Azyazy |team2=Metallica Tghani Ray |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Taigun Esports |team2=ALGERIE TELECOM |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=les-pins |team2=Algerians with attitude |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Hak shayef |team2=zmbraka |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bellé jay fi frod |team2=Team shala bala |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoldyck e-sports |team2=the best players |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team Omnify |team2=ApachesDz |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ashina Clan |team2=FAKER |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Warriors DZ |team2=Light In Dark |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=New Black Pearl |team2=Swords of faith |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overmind |team2=Lunar déserters |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dragons x Monsters |team2=ErroxTeam |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NDZ eSports |team2=Dototeam |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Grimoire Heart |team2=Death Crown |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=nochill gang |team2=Beasts Alg |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DEMONS |team2=DZSICKSQUAD |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=yetnhawga3 |team2=Outplayers |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dessert Hyenas |team2=Thirsty For Blood |team1score= |team2score= |winner= |date=2020-07-10|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Big Brain Gap |team2=They See Us Rollin |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=afk8masters |team2=UnKnownS |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LOL PRO GAMERS |team2=Shkopistan |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No loose end |team2=The dominaters |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=algerie telecom Team1 |team2=FENEC |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ready pentakill |team2=PIRATES |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=For The Win |team2=Fari9 Ossod Choja3 |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Skillers |team2=Dzair Outlaws |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=wood elo wins |team2=infinity |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=tranket |team2=was'up man |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Target Kings e-sports |team2=TeamGates |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LEVEL UP |team2=DZ Gaming |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BabezDZ |team2=bagi |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=cezayer |team2=League of Hellers |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Aspect Team 1 |team2=TEAM DEZERT |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Blue Fingers |team2=team lahbab |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dota team |team2=LAKIDZ |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Angry Apes |team2=End Up Last |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NGU |team2=BIG SHACK |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Noobs are Coming |team2=dfadi3 |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NEVER GIVE UP |team2=No One Cares |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=bladecleavers |team2=Attemptin to reconnect |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Pillars of Light |team2=E-sports Owl Team |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Les Fennecs |team2=algerin telecome |team1score= |team2score= |winner= |date=2020-07-11|time=21:00 |timezone=CET |dst=yes |stream= }}

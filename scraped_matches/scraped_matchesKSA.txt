@@ -1,0 +1,389 @@
+﻿{{MatchSchedule|team1=Vemto |team2=AG TEAM |team1score= |team2score= |winner= |date=2020-05-29|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Mohannad Merza |team2=SLEXR |team1score= |team2score= |winner= |date=2020-05-29|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=We Wont Win xD |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beleaf |team2=IKVARO |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neo Squad |team2=justshow |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HerosEsport |team2=SH GAMING |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=woof woof |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tutorial Was Harder |team2=Onlly Us |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FRTOOS |team2=Team alpha |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SlashFriends |team2=miky wiky |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=Get Me Out |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxicology |team2=MSI Monsters |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rebels |team2=LIGHT TO SEE |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Warriors |team2=Extinction |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=white owls |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neon Bunnies |team2=foxhound |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GGEZ |team2=77Elements |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Molten Core |team2=WE DEM POTATOZ |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Love And Glory |team2=No Balance |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Souls of Legends |team2=jeddahEsport |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxic Knights |team2=FIVE OUTPLAY |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Consolidators |team2=Non Stop |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Empire of Penguin |team2=THE M&M's |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=lords of darkness |team2=Al-ZWP3A |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=spark |team2=The chalnger |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ArabHz |team2=RetardGang |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nerds Team |team2=404 |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Killsteal |team2=Monster INC |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EL Teamoo |team2=EL Goblins |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=int to win |team2=Feed For Fame |team1score= |team2score= |winner= |date=2020-05-30|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vemto |team2=Daddys Basement |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AG TEAM |team2=The Dominators |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BNOM eSports |team2=KnockOut E sports |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=1T_Esports1 |team2=HIMSH |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=Clowns |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Boosted Team |team2=Wrbe Aksr Rask |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ASCA |team2=Tactical Advantage |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dream Team Esports |team2=SMILE MY DEAR |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=Blue Demons |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=fouad beahiri |team2=Saudi in Audi |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Bordga |team2=Dragons eSports |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NerfMF |team2=banned me more |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=The Legends |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Guardians |team2=Λ™️ Team |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Royal Space Cowboys |team2=Surrender To Sadness |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HLHOS |team2=TRANSCENDENCE |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=Nwmmbbha |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ksa |team2=THUNDER JET ESPORT |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sondos BrotherHood |team2=X-CUTION |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=صقور الارض |team2=Chaos Spirits |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=DragonWings |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Golden Wind |team2=Ahsa legends |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Stay Home |team2=Constantly Pressing R |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Unforgiven Team 8 |team2=Reverse |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=Cosmic Guardians |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=1T Group |team2=Tier 3 players |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rtrdz |team2=5brh |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Riyadh eSports |team2=KILLING IN STYLE |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=SLEXR |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Group name does not exist |team2=The Knights of Desert Knights |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Mohannad Merza |team2=F19 |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ColorFul |team2=4FUN |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=IKVARO |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=We Wont Win xD |team2=justshow |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beleaf |team2=SH GAMING |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neo Squad |team2=HerosEsport |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=Onlly Us |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=woof woof |team2=Team alpha |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tutorial Was Harder |team2=miky wiky |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FRTOOS |team2=SlashFriends |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=MSI Monsters |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Get Me Out |team2=LIGHT TO SEE |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxicology |team2=Extinction |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rebels |team2=Warriors |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=foxhound |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=white owls |team2=77Elements |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neon Bunnies |team2=WE DEM POTATOZ |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GGEZ |team2=The Molten Core |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=No Balance |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Love And Glory |team2=FIVE OUTPLAY |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Souls of Legends |team2=Toxic Knights |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=Non Stop |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Consolidators |team2=Al-ZWP3A |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Empire of Penguin |team2=lords of darkness |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=The chalnger |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=spark |team2=404 |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ArabHz |team2=Nerds Team |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=Monster INC |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Killsteal |team2=Feed For Fame |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EL Teamoo |team2=int to win |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vemto |team2=The Dominators |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Daddys Basement |team2=KnockOut E sports |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AG TEAM |team2=HIMSH |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=BNOM eSports |team2=1T_Esports1 |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=Wrbe Aksr Rask |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Clowns |team2=Tactical Advantage |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Boosted Team |team2=SMILE MY DEAR |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ASCA |team2=Dream Team Esports |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=Saudi in Audi |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Blue Demons |team2=Dragons eSports |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=fouad beahiri |team2=banned me more |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Bordga |team2=NerfMF |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=Λ™️ Team |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Legends |team2=Surrender To Sadness |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Guardians |team2=TRANSCENDENCE |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Royal Space Cowboys |team2=HLHOS |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=THUNDER JET ESPORT |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nwmmbbha |team2=X-CUTION |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ksa |team2=Chaos Spirits |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Sondos BrotherHood |team2=صقور الارض |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=Ahsa legends |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DragonWings |team2=Constantly Pressing R |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Golden Wind |team2=Reverse |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Stay Home |team2=Unforgiven Team 8 |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=Tier 3 players |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cosmic Guardians |team2=5brh |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=1T Group |team2=KILLING IN STYLE |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rtrdz |team2=Riyadh eSports |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=The Knights of Desert Knights |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SLEXR |team2=F19 |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Group name does not exist |team2=4FUN |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Mohannad Merza |team2=ColorFul |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=justshow |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=IKVARO |team2=SH GAMING |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=We Wont Win xD |team2=HerosEsport |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Beleaf |team2=Neo Squad |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=Team alpha |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Onlly Us |team2=miky wiky |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=woof woof |team2=SlashFriends |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tutorial Was Harder |team2=FRTOOS |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=LIGHT TO SEE |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=MSI Monsters |team2=Extinction |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Get Me Out |team2=Warriors |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxicology |team2=Rebels |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=77Elements |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=foxhound |team2=WE DEM POTATOZ |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=white owls |team2=The Molten Core |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neon Bunnies |team2=GGEZ |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=jeddahEsport |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No Balance |team2=FIVE OUTPLAY |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Love And Glory |team2=Souls of Legends |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=THE M&M's |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Non Stop |team2=Al-ZWP3A |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Consolidators |team2=Empire of Penguin |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=RetardGang |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The chalnger |team2=404 |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=spark |team2=ArabHz |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=EL Goblins |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Monster INC |team2=Feed For Fame |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Killsteal |team2=EL Teamoo |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Dominators |team2=HIMSH |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Daddys Basement |team2=1T_Esports1 |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AG TEAM |team2=BNOM eSports |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=Tactical Advantage |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wrbe Aksr Rask |team2=SMILE MY DEAR |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Clowns |team2=Dream Team Esports |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Boosted Team |team2=ASCA |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=Dragons eSports |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Saudi in Audi |team2=banned me more |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Blue Demons |team2=NerfMF |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=fouad beahiri |team2=Bordga |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=Surrender To Sadness |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Λ™️ Team |team2=TRANSCENDENCE |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Legends |team2=HLHOS |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Guardians |team2=Royal Space Cowboys |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=X-CUTION |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THUNDER JET ESPORT |team2=Chaos Spirits |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nwmmbbha |team2=صقور الارض |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ksa |team2=Sondos BrotherHood |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=Constantly Pressing R |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ahsa legends |team2=Reverse |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DragonWings |team2=Unforgiven Team 8 |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Golden Wind |team2=Stay Home |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=5brh |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tier 3 players |team2=KILLING IN STYLE |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cosmic Guardians |team2=Riyadh eSports |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=1T Group |team2=Rtrdz |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=F19 |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Knights of Desert Knights |team2=4FUN |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SLEXR |team2=ColorFul |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Group name does not exist |team2=Mohannad Merza |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=SH GAMING |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=justshow |team2=HerosEsport |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=IKVARO |team2=Neo Squad |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=We Wont Win xD |team2=Beleaf |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=miky wiky |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team alpha |team2=SlashFriends |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Onlly Us |team2=FRTOOS |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=woof woof |team2=Tutorial Was Harder |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=Extinction |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LIGHT TO SEE |team2=Warriors |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=MSI Monsters |team2=Rebels |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Get Me Out |team2=Toxicology |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=WE DEM POTATOZ |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=77Elements |team2=The Molten Core |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=foxhound |team2=GGEZ |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=white owls |team2=Neon Bunnies |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=FIVE OUTPLAY |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jeddahEsport |team2=Toxic Knights |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=No Balance |team2=Souls of Legends |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=Al-ZWP3A |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THE M&M's |team2=lords of darkness |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Non Stop |team2=Empire of Penguin |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=404 |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RetardGang |team2=Nerds Team |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The chalnger |team2=ArabHz |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=Feed For Fame |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EL Goblins |team2=int to win |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Monster INC |team2=EL Teamoo |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vemto |team2=HIMSH |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KnockOut E sports |team2=1T_Esports1 |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Dominators |team2=BNOM eSports |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Daddys Basement |team2=AG TEAM |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=SMILE MY DEAR |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Advantage |team2=Dream Team Esports |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wrbe Aksr Rask |team2=ASCA |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Clowns |team2=Boosted Team |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=banned me more |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dragons eSports |team2=NerfMF |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Saudi in Audi |team2=Bordga |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Blue Demons |team2=fouad beahiri |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=TRANSCENDENCE |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Surrender To Sadness |team2=HLHOS |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Λ™️ Team |team2=Royal Space Cowboys |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Legends |team2=Guardians |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=Chaos Spirits |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=X-CUTION |team2=صقور الارض |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THUNDER JET ESPORT |team2=Sondos BrotherHood |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nwmmbbha |team2=ksa |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=Reverse |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Constantly Pressing R |team2=Unforgiven Team 8 |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ahsa legends |team2=Stay Home |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DragonWings |team2=Golden Wind |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=KILLING IN STYLE |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=5brh |team2=Riyadh eSports |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tier 3 players |team2=Rtrdz |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cosmic Guardians |team2=1T Group |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=4FUN |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=F19 |team2=ColorFul |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Knights of Desert Knights |team2=Mohannad Merza |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SLEXR |team2=Group name does not exist |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=HerosEsport |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SH GAMING |team2=Neo Squad |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=justshow |team2=Beleaf |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=IKVARO |team2=We Wont Win xD |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=SlashFriends |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=miky wiky |team2=FRTOOS |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team alpha |team2=Tutorial Was Harder |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Onlly Us |team2=woof woof |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=Warriors |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Extinction |team2=Rebels |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LIGHT TO SEE |team2=Toxicology |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=MSI Monsters |team2=Get Me Out |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=The Molten Core |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WE DEM POTATOZ |team2=GGEZ |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=77Elements |team2=Neon Bunnies |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=foxhound |team2=white owls |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=Toxic Knights |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FIVE OUTPLAY |team2=Souls of Legends |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jeddahEsport |team2=Love And Glory |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=lords of darkness |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Al-ZWP3A |team2=Empire of Penguin |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THE M&M's |team2=The Consolidators |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=Nerds Team |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=404 |team2=ArabHz |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RetardGang |team2=spark |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=int to win |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Feed For Fame |team2=EL Teamoo |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EL Goblins |team2=Killsteal |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vemto |team2=1T_Esports1 |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HIMSH |team2=BNOM eSports |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KnockOut E sports |team2=AG TEAM |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Dominators |team2=Daddys Basement |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=Dream Team Esports |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SMILE MY DEAR |team2=ASCA |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Advantage |team2=Boosted Team |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wrbe Aksr Rask |team2=Clowns |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=NerfMF |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=banned me more |team2=Bordga |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dragons eSports |team2=fouad beahiri |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Saudi in Audi |team2=Blue Demons |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=HLHOS |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TRANSCENDENCE |team2=Royal Space Cowboys |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Surrender To Sadness |team2=Guardians |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Λ™️ Team |team2=The Legends |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=صقور الارض |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Chaos Spirits |team2=Sondos BrotherHood |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=X-CUTION |team2=ksa |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THUNDER JET ESPORT |team2=Nwmmbbha |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=Unforgiven Team 8 |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Reverse |team2=Stay Home |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Constantly Pressing R |team2=Golden Wind |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ahsa legends |team2=DragonWings |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=Riyadh eSports |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KILLING IN STYLE |team2=Rtrdz |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=5brh |team2=1T Group |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tier 3 players |team2=Cosmic Guardians |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=ColorFul |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=4FUN |team2=Mohannad Merza |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=F19 |team2=Group name does not exist |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Knights of Desert Knights |team2=SLEXR |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=Neo Squad |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HerosEsport |team2=Beleaf |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SH GAMING |team2=We Wont Win xD |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=justshow |team2=IKVARO |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=FRTOOS |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SlashFriends |team2=Tutorial Was Harder |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=miky wiky |team2=woof woof |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Team alpha |team2=Onlly Us |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=Rebels |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Warriors |team2=Toxicology |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Extinction |team2=Get Me Out |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LIGHT TO SEE |team2=MSI Monsters |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=GGEZ |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Molten Core |team2=Neon Bunnies |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WE DEM POTATOZ |team2=white owls |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=77Elements |team2=foxhound |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=Souls of Legends |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxic Knights |team2=Love And Glory |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=jeddahEsport |team2=No Balance |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=Empire of Penguin |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=lords of darkness |team2=The Consolidators |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=THE M&M's |team2=Non Stop |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=ArabHz |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nerds Team |team2=spark |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=RetardGang |team2=The chalnger |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=EL Teamoo |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=int to win |team2=Killsteal |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EL Goblins |team2=Monster INC |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Vemto |team2=BNOM eSports |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=1T_Esports1 |team2=AG TEAM |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HIMSH |team2=Daddys Basement |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KnockOut E sports |team2=The Dominators |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Ace |team2=ASCA |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dream Team Esports |team2=Boosted Team |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SMILE MY DEAR |team2=Clowns |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Advantage |team2=Wrbe Aksr Rask |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Curlat |team2=Bordga |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NerfMF |team2=fouad beahiri |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=banned me more |team2=Blue Demons |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Dragons eSports |team2=Saudi in Audi |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Wicked For Eternity |team2=Royal Space Cowboys |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HLHOS |team2=Guardians |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TRANSCENDENCE |team2=The Legends |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Surrender To Sadness |team2=Λ™️ Team |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nemesis |team2=Sondos BrotherHood |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=صقور الارض |team2=ksa |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Chaos Spirits |team2=Nwmmbbha |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=X-CUTION |team2=THUNDER JET ESPORT |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nezoo |team2=Stay Home |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Unforgiven Team 8 |team2=Golden Wind |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Reverse |team2=DragonWings |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Constantly Pressing R |team2=Ahsa legends |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=TheMuskteers |team2=Rtrdz |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Riyadh eSports |team2=1T Group |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=KILLING IN STYLE |team2=Cosmic Guardians |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=5brh |team2=Tier 3 players |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Overly Obnoxious Fellas |team2=Mohannad Merza |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=ColorFul |team2=Group name does not exist |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=4FUN |team2=SLEXR |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=F19 |team2=The Knights of Desert Knights |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=EGZ Esports |team2=Beleaf |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Neo Squad |team2=We Wont Win xD |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=HerosEsport |team2=IKVARO |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SH GAMING |team2=justshow |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Tactical Inting |team2=Tutorial Was Harder |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FRTOOS |team2=woof woof |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=SlashFriends |team2=Onlly Us |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=miky wiky |team2=Team alpha |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cake Bag |team2=Toxicology |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Rebels |team2=Get Me Out |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Warriors |team2=MSI Monsters |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Extinction |team2=LIGHT TO SEE |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AL-THN |team2=Neon Bunnies |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GGEZ |team2=white owls |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=The Molten Core |team2=foxhound |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=WE DEM POTATOZ |team2=77Elements |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=brooss |team2=Love And Glory |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Toxic Knights |team2=No Balance |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=FIVE OUTPLAY |team2=jeddahEsport |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Salty Potato |team2=The Consolidators |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=lords of darkness |team2=Non Stop |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Al-ZWP3A |team2=THE M&M's |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Xtreme Guys Plus |team2=spark |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Nerds Team |team2=The chalnger |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=404 |team2=RetardGang |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Hunters |team2=Killsteal |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=int to win |team2=Monster INC |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Feed For Fame |team2=EL Goblins |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
