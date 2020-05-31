@@ -1,180 +1,120 @@
-﻿{{MatchSchedule|team1=Ambush |team2=KFC |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=3DOL |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-05-30|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=3DOL |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Quick |team1score= |team2score= |winner= |date=2020-06-05|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=3DOL |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Quick |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-06-06|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=3DOL |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=Quick |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-06-19|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=3DOL |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=Quick |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Low |team1score= |team2score= |winner= |date=2020-06-20|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Quick |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Low |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-03|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Quick |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Low |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-07-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Quick |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Low |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Iron Plays Team |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-07-17|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Shadowbringers |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Quick |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Low |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Win After Win |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-07-18|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Dewaniya of legends |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Quick |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Low |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=KFC |team2=Win After Win |team1score= |team2score= |winner= |date=2020-07-24|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Quick |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Low |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Win After Win |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rank1 Players |team2=KFC |team1score= |team2score= |winner= |date=2020-07-25|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Hakuna Matata |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Low |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Win After Win |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=KFC |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Gg wp Go Next |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-08-07|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=TeQuila Team |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Low |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Win After Win |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=KFC |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Team Alpha |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-08-08|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Low |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Win After Win |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=KFC |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=3DOL |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-08-15|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Kuwait Legends Gaming |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Win After Win |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=KFC |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ez Cheap 2 |team2=3DOL |team1score= |team2score= |winner= |date=2020-08-22|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Titans Gaming Center |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Win After Win |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=KFC |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=3DOL |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Rise In Pandemic |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-08-28|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=kuwaiti pride trooperz |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Win After Win |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=KFC |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=3DOL |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=999 WRLD |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-09-04|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Ambush |team2=Iron Plays Team |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=kuwaiti pride trooperz |team2=Win After Win |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Titans Gaming Center |team2=KFC |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Kuwait Legends Gaming |team2=Rank1 Players |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Low |team2=Gg wp Go Next |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=TeQuila Team |team2=Team Alpha |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Hakuna Matata |team2=3DOL |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Quick |team2=Ez Cheap 2 |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Dewaniya of legends |team2=Rise In Pandemic |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
-{{MatchSchedule|team1=Shadowbringers |team2=999 WRLD |team1score= |team2score= |winner= |date=2020-09-11|time=18:00 |timezone=CET |dst=yes |stream= }}
+﻿{{MatchSchedule|team1=GrandMasterBaiters |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=reportjg |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=team lebanon |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LouLouTeam |team2=Paranoia |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Virus eSports |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jogo |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-05|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=reportjg |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=team lebanon |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LouLouTeam |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Virus eSports |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-06|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=team lebanon |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Paranoia |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LouLouTeam |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Virus eSports |team2=Cedars |team1score= |team2score= |winner= |date=2020-06-12|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=team lebanon |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=Paranoia |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LouLouTeam |team2=Cedars |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-06-13|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Paranoia |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=LouLouTeam |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-06-19|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Cedars |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanon FC |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-06-20|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=N2AT3IT LKAHRABA |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=Cedars |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Summon Aery |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-06-26|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Lebanese Squad |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=Jogo |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=Cedars |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-06-27|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Elo Hell Raisers |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=Jogo |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=Cedars |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=NIGHT SHADE |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-03|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Jogo |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=Cedars |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=reportjg |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-04|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Cedars |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jogo |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Zoubaydica |team2=reportjg |team1score= |team2score= |winner= |date=2020-07-10|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Virus eSports |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jogo |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=reportjg |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=team lebanon |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-07-11|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=AMIGOS |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Virus eSports |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=reportjg |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Paranoia |team2=team lebanon |team1score= |team2score= |winner= |date=2020-07-17|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=LouLouTeam |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jogo |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=reportjg |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=team lebanon |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=DOG KINGDOM |team2=Paranoia |team1score= |team2score= |winner= |date=2020-07-18|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=GrandMasterBaiters |team2=Lebanon FC |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=AMIGOS |team2=Summon Aery |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Virus eSports |team2=NIGHT SHADE |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Cedars |team2=reportjg |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Jogo |team2=Zoubaydica |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Elo Hell Raisers |team2=team lebanon |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=Lebanese Squad |team2=Paranoia |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}
+{{MatchSchedule|team1=N2AT3IT LKAHRABA |team2=DOG KINGDOM |team1score= |team2score= |winner= |date=2020-07-21|time=19:00 |timezone=CET |dst=yes |stream= }}

@@ -10,7 +10,7 @@ options.add_argument("--window-size=1920,1200")
 
 DRIVER_PATH = r'C:\Users\xTeas\Downloads\chromedriver_win32\chromedriver.exe'
 driver = webdriver.Chrome(options=options, executable_path=DRIVER_PATH)
-driver.get('https://iac.leagueoflegends.com/en/country-leagues/upcoming-matches/3543977268165025792/range/0-9')
+driver.get('https://iac.leagueoflegends.com/en/country-leagues/upcoming-matches/3543973810896044032/range/0-9')
 
 teamregex = r'(.+?) VS (.+?)$'
 
@@ -27,7 +27,7 @@ def check_click_exists(xpath):
 check_click_exists('//*[@id="trigger-load-more"]')
 
 count = 0
-myfile = codecs.open('scraped_matches/scraped_matchesUAE.txt', 'w', 'utf-8-sig')
+myfile = codecs.open('scraped_matches/scraped_matchesOMA.txt', 'w', 'utf-8-sig')
 for match in driver.find_elements_by_class_name('upcoming_matches.Country'):
     date_time = match.find_element_by_class_name('MatchesDate').text
     round = match.find_element_by_class_name('MatchesRound').text
