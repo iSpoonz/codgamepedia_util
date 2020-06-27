@@ -2,10 +2,10 @@ import mwclient, re
 
 
 def login(user, wiki):
-    with open('password.txt') as f:
+    with open('password_me.txt') as f:
         password = f.read().strip()
 
-    with open('password2.txt') as f:
+    with open('password_bot.txt') as f:
         password2 = f.read().strip()
     if user == 'me':
         site = mwclient.Site('%s.gamepedia.com' % wiki, path='/')
