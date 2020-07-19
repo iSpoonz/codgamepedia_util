@@ -1,6 +1,6 @@
 from log_into_wiki import *
 
-site = login('bot', 'cod-esports')  # Set wiki
+site = login('bot', 'valorant-esports')  # Set wiki
 summary = 'Creating player tooltips'
 
 pages = site.pages['Template:Infobox Player'].embeddedin(namespace=0)

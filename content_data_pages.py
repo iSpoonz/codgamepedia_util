@@ -145,6 +145,6 @@ def check_and_make_redirects(d, page_prefix, redirect_text):
 if __name__ == "__main__":
     this = 'news'
     credentials = AuthCredentials(user_file="me")
-    site = EsportsClient('legendsofruneterra-esports', credentials=credentials)  # Set wiki
+    site = EsportsClient('fifa-esports', credentials=credentials)  # Set wiki
     make_templates(this)
-    make_data_pages(range(2019, 2020), this, startat_page=None)
+    make_data_pages(range(2020, 2021), this, startat_page=None)
