@@ -22,10 +22,10 @@ def process_line():
     if match:
         totalprize = match[1]
         prizeunit = match[2]
-        if match[4] != '' and match[4] is not None:
-            ref_link = match[4]
-            ref_title = match[5]
-            ref_desc = match[6]
+        if match[3] != '' and match[3] is not None:
+            ref_link = match[3]
+            ref_title = match[4]
+            ref_desc = match[5]
 
         linelist = ''
         points = 'x'
@@ -70,12 +70,9 @@ def process_line():
                     t.add('player', playerDict["player{0}".format(x)])
                     if roleDict["role{0}".format(x)] != '':
                         t.add('role', roleDict["role{0}".format(x)])
-                    t = "|" + str(t)
                     playerlist += str(t)
 
-                team = template2.get('team').value.strip()
-                template2.remove('team')
-                template2.add('team', team + ' ' + playerlist)
+                template2.add('roster', playerlist)
                 # print(playerlist)
                 line = "|" + str(template2) + '\n'
                 linelist += str(line)
