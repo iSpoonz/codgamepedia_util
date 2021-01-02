@@ -9,27 +9,27 @@ limit = -1
 pages = site.pages['Template:TournamentResultsStart'].embeddedin(namespace=0)
 
 # https://regex101.com/r/HN75H4/3/
-regex = r"[$¢£¤¥֏؋৲৳৻૱௹฿៛R\u20a0-\u20bd\ua838\ufdfc\ufe69\uff04\uffe0\uffe1\uffe5\uffe6](?: |)(.+?)(?: |) {{" \
-        r"Abbr\|(.+?)\|(?:.+?)(?:(<!--| |)<ref>(.+?)</ref>(?:-->|)|)\n"
-regex2 = r"==(?:.+?)==(?: |)\n{{TournamentResultsStart"
+regex = r"===(.+?)===\n(.+?) (?:.+?)\n"
+regexref = r"===(.+?)===\n(.+?) (?:.+?)<ref>(.+?)</ref>\n"
+myr = r"===(?: |)\n(.+?)\n{{TournamentResultsStart"
 blank_lines = r"^\s+$"
 
 lmt = 0
 
 
-# pages = [site.pages['CWL/2019 Season/Pro League']]
+# pages = [site.pages['RUSH Infinite Warfare 2017']]
 
 
 def process_start():
-    match = re.search(regex, str(wikitext))
+    match = re.search(myr, str(wikitext))
     # print(match)
     if match:
-        print(match)
+        """"
         totalprize = match[1]
-        prizeunit = match[2]
-        if match[3] is not None and match[3] != '<!--':
-            if match[4] is not None and match[4] != '':
-                ref = match[4]
+        prizeunit = "ZAR"
+        #if match[3] is not None and match[3] != '':
+        #    ref = match[3]
+        """
         linelist = process_line()
 
         for template in wikitext.filter_templates():
@@ -43,9 +43,9 @@ def process_start():
                     template.remove('noprize')
                 if template.has('noteams'):
                     template.remove('noteams')
-                if match[3] is not None and match[3] != '<!--':
-                    if match[4] is not None and match[4] != '':
-                        template.add('prize_ref', ref + '\n')
+                """
+            #    if match[3] is not None and match[3] != '':
+            #        template.add('prize_ref', ref + '\n')
                 if totalprize != '' and prizeunit != '':
                     template.add('prize', 'yes')
                     template.add('prizeunit', prizeunit)
@@ -57,7 +57,7 @@ def process_start():
                     template.add('noprize', 'yes' + linelist)
                 else:
                     template.add('prize', 'yes' + linelist)
-                """
+
             if template.name.matches('TournamentResultsEnd'):
                 wikitext.remove(template)
             if template.name.matches('TournamentResults/Line'):
@@ -72,7 +72,7 @@ def process_line():
     prev_points = 'y'
     prev_place = 'y'
     for template2 in wikitext.filter_templates():
-        if template2.name.matches('TournamentResultsLineMB'):
+        if template2.name.matches('TournamentResultsLine'):
             template2.name = 'TournamentResults/Line'
             if template2.has('prizeunit'):
                 template2.remove('prizeunit')
@@ -133,7 +133,7 @@ for page in pages:
     text = page.text()
     wikitext = mwparserfromhell.parse(text, skip_style_tags=True)
     process_start()
-    wikitext = re.sub(regex, '', str(wikitext))
+    wikitext = re.sub(myr, '===\n', str(wikitext))
     wikitext = re.sub(blank_lines, '', str(wikitext), flags=re.MULTILINE)
     newtext = str(wikitext)
     if text != newtext:

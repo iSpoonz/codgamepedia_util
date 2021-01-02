@@ -143,8 +143,8 @@ def check_and_make_redirects(d, page_prefix, redirect_text):
 
 
 if __name__ == "__main__":
-    this = 'ec'
-    credentials = AuthCredentials(user_file="me")
-    site = EsportsClient('gears-esports', credentials=credentials)  # Set wiki
+    this = 'news'
+    credentials = AuthCredentials(user_file="bot")
+    site = EsportsClient('wildrift-esports', credentials=credentials)  # Set wiki
     make_templates(this)
-    make_data_pages(range(2006, 2021), this, startat_page=None)
+    make_data_pages(range(2020, 2022), this, startat_page=None)
